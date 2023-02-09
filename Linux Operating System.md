@@ -2457,3 +2457,9 @@ Besides, there are different applications and services such as [Snort](https://
 -   Disable all unwanted SUID/SGID binaries
 
 This list is incomplete, as safety is not a product but a process. This means that specific steps must always be taken to protect the systems better, and it depends on the administrators how well they know their operating systems. The better the administrators are familiar with the system, and the more they are trained, the better and more secure their security precautions and security measures will be.
+
+ [Previous](https://academy.hackthebox.com/module/18/section/82)
+
+ Finish
+
+ Cheat Sheet
